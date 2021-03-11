@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+img{
+	height: 300px;
+	width: 300px;
+	margin: 4px;
+
+}
+ h1{
+ 	text-align: center;
+ 	line-height: 70px;
+ 	height: 80px;
+ 	width: 100%;
+ 	background: linear-gradient(to right,pink,purple)
+ }
+ .picture{
+ 	float: left;
+ 	height: 800px;
+ 	background-color: pink;
+ }
+ .info{
+ 	background-color: lightblue;
+ 	padding: 5px;
+ }
+ .profile{
+ 	font-size: 14px;
+
+ }
